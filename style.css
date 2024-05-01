@@ -1,0 +1,45 @@
+*{
+    font-family: 'inter';
+    margin: 0px;
+}
+#topo{
+    background-color: #303030;
+    padding: 100px;
+}
+#titulo-menusuperior{
+    color: white;
+    font-size: 48px;
+}
+#subtitulo-menusuperior{
+    color: white;
+    padding-top: 15px;
+    font-size: 17px;
+}
+#menu-informacional{
+    background-color: #fafaf6;
+    padding-bottom: 50px;
+}
+.cards{
+    margin: 75px 0px 0px 100px;
+}
+#menu-foto{
+    display: grid;
+    grid-auto-flow: column;
+}
+#foto{
+    margin: 50px 25px 50px 50px;
+}
+#titulo-foto{
+    margin: 220px 0px 0px 100px;
+    font-size: 29px;
+}
+#texto-foto{
+    margin: 40px 0px 0px 100px;
+    font-size: 18px;
+}
+#formulario{
+    background-color: #303030;
+}
+#titulo-formulario{
+    color: white;
+}
