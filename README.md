@@ -1,2 +1,2 @@
-# dasafio-landing-page
-Desafio 1 DNC Landing Page
+Link do site disponibilizado: https://desafiondnclandp.netlify.app
+Link da panilha de registro de informações: https://l1nk.dev/dncdesafioland
